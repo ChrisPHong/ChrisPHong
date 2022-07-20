@@ -25,7 +25,7 @@ My name is Christopher Hong:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisPHong&show_icons=true&count_private=true&theme=algolia)
 
 ## Languages and Tools:
-<img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png' />
+<img height='32' width='32' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png' />
 https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png
 https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png
 https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/HTML.png
