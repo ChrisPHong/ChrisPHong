@@ -19,9 +19,9 @@ My name is Christopher Hong:
 - 🔭 I’m currently working on QuicksPic! A social media app that allows users to interact with posts, comments and leave a like! 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/christopherpyohong/)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I have play Valorant every single day. Am I good? No. But I love the game!
+- ⚡ Fun fact: I play Valorant every single day. Am I good? No. But I love the game!
 
-
+## GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisPHong&show_icons=true&count_private=true&theme=algolia)
 
 ## Languages and Tools:
