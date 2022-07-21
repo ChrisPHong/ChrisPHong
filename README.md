@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 -->
 ## Introduction
-My name is Christopher Hong:
+My name is Christopher Hong! Welcome to my Github Page:
 - 🔭 I’m currently working on [QuicksPic](https://quickspic.herokuapp.com/)! A social media app that allows users to interact with posts, comments and leave a like! 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/christopherpyohong/)
 - 😄 Pronouns: he/him
