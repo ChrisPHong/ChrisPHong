@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 My name is Christopher Hong:
-- 💬 Ask me about: 
-- 📫 How to reach me: https://www.linkedin.com/in/christopherpyohong/
+- 🔭 I’m currently working on QuicksPic! A social media app that allows users to interact with posts, comments and leave a like! 
+- 📫 How to reach me: [linkedIn](https://www.linkedin.com/in/christopherpyohong/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have play Valorant every single day. Am I good? No. But I love the game!
 
