@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-
+## Introduction
 My name is Christopher Hong:
 - 🔭 I’m currently working on QuicksPic! A social media app that allows users to interact with posts, comments and leave a like! 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/christopherpyohong/)
