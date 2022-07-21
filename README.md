@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## Introduction
 My name is Christopher Hong:
-- 🔭 I’m currently working on QuicksPic! A social media app that allows users to interact with posts, comments and leave a like! 
+- 🔭 I’m currently working on [QuicksPic](quickspic.herokuapp.com)! A social media app that allows users to interact with posts, comments and leave a like! 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/christopherpyohong/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I play Valorant every single day. Am I good? No. But I love the game!
